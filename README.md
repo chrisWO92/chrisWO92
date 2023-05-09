@@ -1,16 +1,33 @@
-### Hi there 👋
+<div id="header" align="center">
+        <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="480" height="270">
+        <h1 align="center">Hi Github friend😁, I'm ChrisWO92 !</h1>
+        <h3 align="center">
+            👨‍💻I’m a guy with a deep passion for learning and challenging myself to do new and fancy stuff. I’ve fallen in love with Front-End Development and the incredible things I can build with JavaScript Libraries 💻⌨️. One of my hobbies is looking in the internet for new and creative ways for making dynamic pages, getting my knowledge to the next level 🚀.<br><br>
+            Feel free to send me a message and telling me who you are. This page isn’t just for making professional contacts, but to make new friends 😎.
+        </h3>
+    </div>
 
-<!--
-**chrisWO92/chrisWO92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 💬 More About Me:
 
-Here are some ideas to get you started:
+- 👨‍💻 This is my LinkedIn Profile: **[ChrisWo92 Developer](https://www.linkedin.com/in/cristian-pineda-developer/)**
+- 📨 How to reach me **chrisworkingonline@gmail.com**
+- 🌱 I’m currently learning **Next.js, Node.js and MaterialUI**
+- 💬 Ask me about **React.js, Web Development, FrontEnd Programming, JavaScript**
+- 🌐 Website: **https://chriswo92.github.io/portfolio-web/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="left">
+    <h3>🛠 Languages and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" title="HTML">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" title="CSS">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="40" height="40" title="Next">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node" width="40" height="40" title="Node">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" title="Express">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub">
+    </div>
+</div>
